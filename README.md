@@ -15,9 +15,8 @@
 
 ![image](https://user-images.githubusercontent.com/84160502/205745727-f6716944-7081-4125-b03c-a36773f1d208.png)
 
- <i>to avoid hardcoding the 'Fraud' API </i>
- 
-
+ <i>to avoid hardcoding the 'Fraud' API </i> 
 <br>
+
 ![image](https://user-images.githubusercontent.com/84160502/205747060-34f54a3a-7fad-4fab-86db-6178563cd397.png)
 
