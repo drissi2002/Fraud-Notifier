@@ -9,6 +9,11 @@
 
 ![image](https://user-images.githubusercontent.com/84160502/206310642-3badf8e0-7be7-4f52-a652-b2e4fbaae654.png)
 
+<i> Clients request workflow </i>
+
+![image](https://user-images.githubusercontent.com/84160502/206311219-5a5a7b47-b175-457c-bba2-e8e284c75073.png)
+
+
 ## Some 'LoadBlancer' Algorithms for Clients requests
 <img width="754" alt="Sans titre1" src="https://user-images.githubusercontent.com/84160502/206310778-a8711a10-6f16-42fa-8566-3824a0fdbf7d.png">
 
