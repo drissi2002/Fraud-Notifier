@@ -1,4 +1,4 @@
-# Covred parts 
+# Covered parts
 ## OpenFeign
 <i> it's also a an inter-microservices communication but it's more efficient in way to impliment a user interface to facilitate the communication instead of duplicate  classes between microserivces </i>
 <br>
