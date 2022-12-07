@@ -4,6 +4,7 @@
 ## Architecture preview 
 
 <img width="772" alt="Sans titre" src="https://user-images.githubusercontent.com/84160502/206310504-80cb452d-12fb-4759-b1ae-8a2e1cedd0df.png">
+
 ## Zipkin tracing 
 
 ![image](https://user-images.githubusercontent.com/84160502/206310642-3badf8e0-7be7-4f52-a652-b2e4fbaae654.png)
