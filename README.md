@@ -1,11 +1,11 @@
 # Covered parts
 ## Adding 'apigw'
 <i>Clients make requests to Spring Cloud Gateway. If the Gateway Handler Mapping determines that a request matches a route, it is sent to the Gateway Web Handler. This handler runs the request through a filter chain that is specific to the request. The reason the filters are divided by the dotted line is that filters can run logic both before and after the proxy request is sent. All “pre” filter logic is executed. Then the proxy request is made. After the proxy request is made, the “post” filter logic is run.</i>
-## Architecture preview 
+## Current architecture 
 
 ![image](https://user-images.githubusercontent.com/84160502/206310971-c69f4bf5-ccf0-4ff9-94f5-7f083a3f7261.png)
 
-## Zipkin tracing 
+## 'Zipkin' tracing 
 
 ![image](https://user-images.githubusercontent.com/84160502/206310642-3badf8e0-7be7-4f52-a652-b2e4fbaae654.png)
 
